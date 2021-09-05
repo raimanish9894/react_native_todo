@@ -1,0 +1,8 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://cj-pdg.anonymous.react-todo.exp.direct",
+  "packagerNgrokUrl": "https://packager.cj-pdg.anonymous.react-todo.exp.direct",
+  "ngrokPid": 4168
+}
